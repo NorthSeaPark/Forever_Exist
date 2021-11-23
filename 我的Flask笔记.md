@@ -14,6 +14,8 @@
 
    （6）在你搭建的环境上，set FLASK_APP = app.py
 
+   ​		set FLASK_APP = 你的主程序名称
+
    （7）flask run，启动服务器
 
    
@@ -35,6 +37,12 @@
    1.3 URL
 
    ​	（1）“/“ 对应的是根地址
+
+   ​	（2）app.route() 是把地址和函数绑定在一起
+
+   ​	（3）改变端口到8000 ：flask run --port=8000
+
+   
 
    
 
