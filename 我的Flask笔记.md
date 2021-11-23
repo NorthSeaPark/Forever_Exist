@@ -42,6 +42,8 @@
 
    ​	（3）改变端口到8000 ：flask run --port=8000
 
+   ​	（4）Debug模式： set FLASK_ENV=development
+
    
 
    
