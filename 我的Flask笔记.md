@@ -4,6 +4,8 @@
 
 运行环境是在C盘 用户 acer Flask_App 里
 
+还有一个是教程的环境 在 acer/helloflask 里
+
 1. 1 搭建环境
 
    （1）创造一个文件夹
