@@ -14,6 +14,8 @@
 
      (4) 在这个环境内安装Flask
 
+   ​		pip install flask
+
    （5）cls 可以清除终端所有烦人的代码
 
    （6）在你搭建的环境上，set FLASK_APP = app.py
@@ -49,7 +51,7 @@
    ​	（4）Debug模式： set FLASK_ENV=development
 
    
-
+   
    
 
 
