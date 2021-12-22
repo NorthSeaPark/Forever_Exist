@@ -23,3 +23,7 @@
    u is the residual, unexplained random portion of performance in a given year.
 
 - A fund with lots of growth stocks and high beta will usually beat the market during a good year for stocks. Similarly, a conservative fund that holds bonds will have a low beta and typically outperform the S&P 500 during a poor year for the market.
+
+- Alpha tells investors whether an asset has consistently performed better or worse than its beta predicts.
+
+- An alpha of -15 means the investment was far too risky given the return. An alpha of zero suggests that an asset has earned a return commensurate with the risk. Alpha of greater than zero means an [investment outperformed](https://www.investopedia.com/articles/07/alphabeta.asp), after adjusting for volatility.
