@@ -54,6 +54,29 @@
 
    
    
+   1.4 HTTP verbs
+   
+   	- GET	Retrieve something	GET/item/1
+   	- POST   Receive data and use it  POST/item
+   	- PUT  Make sure something is there  PUT/item
+   	- DELETE  remove something   DELETE/item/1
+   
+   
+   
+   1.5 Principle of REST API
+   
+   ​	   In a server perspective:
+   
+   ​	   POST - used to receive data
+   
+   ​       GET - used to send data back only
+   
+   
+   
+   ​	
+   
+   
+   
    
 
 
